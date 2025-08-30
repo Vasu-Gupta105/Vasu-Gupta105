@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Vasu Gupta! 👋
 
 ![Banner Image](https://i0.wp.com/shamimreza.com/wp-content/uploads/2022/07/DALL%C2%B7E-2023-11-24-01.30.43-A-banner-sized-image-representing-a-friendly-and-engaging-conversation-about-GitHub-Copilot-featuring-a-software-developer-Hispanic-male-with-short-.png?fit=1030%2C589&ssl=1)
@@ -21,7 +19,7 @@ I'm a very curious **Student**. I love tackling complex problems, learning new s
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**vasugupta401@gmail.com
-- **[LinkedIn]**www.linkedin.com/in/vasu-gupta-i105401
+- Mail at vasugupta401@gmail.com
+- Through LinkedIn at www.linkedin.com/in/vasu-gupta-i105401
 
 
