@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Vasu Gupta]! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
