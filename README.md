@@ -6,7 +6,7 @@
 
 I'm a very curious **Student**. I love tackling complex problems, learning new skills and deeply about Web Development currently.
 
-- 🌱 Currently learning: **Web development and C++**
+- 🌱 Currently learning: **Web development**
 - 🌍 Languages: **English and Hindi**
 - 📫 How to reach me: **Mail at vasugupta401@gmail.com**
 - ⚡ Fun fact: **I am an Indian and I love food**
