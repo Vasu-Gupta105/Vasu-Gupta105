@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a very curious **Student**. I love tackling complex problems, learning new skills and deeply about Web Development currently.
+A passionate **coder** with a strong interest in problem-solving and technology. Always eager to learn new programming skills, build innovative projects, and explore the world of software development.
 
 - 🌱 Currently learning: **Web development**
 - 🌍 Languages: **English and Hindi**
