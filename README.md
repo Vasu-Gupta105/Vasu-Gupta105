@@ -8,18 +8,19 @@ I'm a very curious **Student**. I love tackling complex problems, learning new s
 
 - 🌱 Currently learning: **Web development and C++**
 - 🌍 Languages: **English and Hindi**
-- 📫 How to reach me: **Through mail at vasugupta401@gmail.com**
+- 📫 How to reach me: **Mail at vasugupta401@gmail.com**
 - ⚡ Fun fact: **I am an Indian and I love food**
 
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![#C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## Get in Touch 📬
 
 - Mail at vasugupta401@gmail.com
-- Through LinkedIn at www.linkedin.com/in/vasu-gupta-i105401
+- Through LinkedIn at www.linkedin.com/in/vasugupta105
 
 
