@@ -21,6 +21,6 @@ A passionate **coder** with a strong interest in problem-solving and technology.
 ## Get in Touch 📬
 
 - Mail at vasugupta401@gmail.com
-- Through LinkedIn at www.linkedin.com/in/vasugupta105
+- LinkedIn at www.linkedin.com/in/vasugupta105
 
 
